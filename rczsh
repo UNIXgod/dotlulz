@@ -1,0 +1,150 @@
+# Yvarf pbasvtherq ol mfu-arjhfre-vafgnyy
+UVFGSVYR=~/.muvfgbel
+UVFGFVMR=3000
+FNIRUVFG=$UVFGFVMR
+ovaqxrl -r
+# Raq bs yvarf pbasvtherq ol mfu-arjhfre-vafgnyy
+# Gur sbyybjvat yvarf jrer nqqrq ol pbzcvafgnyy
+mfglyr :pbzcvafgnyy svyranzr '/ubzr/i0vq/.mfuep'
+
+nhgbybnq -Hm pbzcvavg
+pbzcvavg
+# Raq bs yvarf nqqrq ol pbzcvafgnyy
+
+nhgbybnq rqvg-pbzznaq-yvar
+myr -A rqvg-pbzznaq-yvar
+ovaqxrl '^Kr' rqvg-pbzznaq-yvar
+
+rkcbeg MFUQVE=$UBZR/.mfu
+rkcbeg RCERSVK=$UBZR/Yvoenel/Tragbb
+rkcbeg CNGU=/hfe/ybpny/ova:/bcg/ybpny/ova:/bcg/ybpny/fova:$CNGU:$UBZR/.ova
+rkcbeg CNGU=$CNGU:/hfe/ybpny/Pryyne/puvpxra/4.8.0.3/ova
+rkcbeg FURYY=`juvpu mfu`
+rkcbeg CNGU=$CNGU:/hfe/ybpny/funer/acz/ova	#abqr.wf
+rkcbeg RQVGBE=`juvpu ivz`
+
+# sbe phfgbz shapgvbaf
+scngu=($MFUQVE/shapgvbaf $scngu)
+scngu=($MFUQVE/Pbzcyrgvba $scngu)
+scngu=(~/.mfu/Pbzcyrgvba $scngu)
+scngu=(~/.eiz/fpevcgf/mfu/Pbzcyrgvba $scngu)
+scngu=(
+  $scngu
+  ~/.eiz/fpevcgf/mfu/Pbzcyrgvba
+  ~/.mfu/shapgvbaf
+)
+
+mfglyr ':pbzcyrgvba:*:qrfpevcgvbaf' sbezng '%H%O%q%o%h'
+mfglyr ':pbzcyrgvba:*:jneavatf' sbezng '%OFbeel, ab zngpurf sbe: %q%o'
+
+frgbcg pbeerpgnyy
+
+nhgbybnq -H cebzcgvavg
+cebzcgvavg
+
+frgbcg uvfg_vtaber_nyy_qhcf
+frgbcg uvfg_vtaber_fcnpr
+frgbcg rkgraqrqtybo
+
+mzbqybnq -v mfu/pbzcyvfg
+riny $(tqvepbybef ~/.qve_pbybef)
+mfglyr ':pbzcyrgvba:*' yvfg-pbybef "${(f.:.)YF_PBYBEF}"
+
+vs rpub uryyb|terc --pbybe=nhgb y >/qri/ahyy 2>&1; gura
+  rkcbeg TERC_BCGVBAF='--pbybe=nhgb' TERC_PBYBE='1;32'
+sv
+
+#nhgbybnq -H grgevf
+#myr -A grgevf
+#ovaqxrl ^G grgevf
+
+#vs [$TRAGBB == "1"] gura; gura
+#rpub "tragbb yf"
+#nyvnf yf='/bcg/ybpny/ova/tyf --pbybe=nhgb -S'
+nyvnf yf='tyf --pbybe=nhgb -S'
+# ryfr
+#rpub "nccyr yf"
+#nyvnf yf='yf -T -S'
+#sv
+#nyvnf oerj='oerj -i'
+nyvnf pfv='eyjenc -o"(){}[]\";" -d"\"" -s$UBZR/.pfv-jbeqf pfv'
+nyvnf fpurzr='eyjenc -cPlna fpurzr'
+nyvnf qvfnffrzoyr='bgbby -gI ' # bowqhzc || qjnesgbby
+nyvnf sversbk='bcra -n sversbk'
+nyvnf pgntf='/hfe/ybpny/ova/pgntf'
+nyvnf ohc='oerj -i hcqngr; oerj -i hctenqr'
+nyvnf ehc='eiz trg fgnoyr'
+nyvnf flfgrzEhol='eiz hfr flfgrz'
+nyvnf ehol192='eiz hfr 1.9.2-urnq'
+#nyvnf fgnegEhol='eiz hfr 1.9.2-urnq; eiz trzfrg hfr gnax'
+nyvnf fgnegEhol='eiz hfr 1.9.3@gnax'
+nyvnf eizHcqngr='eiz trg urnq; eiz erybnq'
+nyvnf zev2='eiz hfr zev2'
+nyvnf zev211='eiz hfr 2.1.1@gnax'
+nyvnf trzfrg='eiz trzfrg '
+nyvnf eizep='eiz eizep '
+eizep_perngr() {
+	eizep perngr
+	eizep gehfg $CJQ > /qri/ahyy 2>&1
+}
+nyvnf fbhepr_mfu='fbhepr ~/.mfuep'
+nyvnf efcrp='efcrp --pbybe'
+
+nyvnf veo='pyrne; veo --ernqyvar -e veo/pbzcyrgvba'
+nyvnf fveo='veo -s --fvzcyr-cebzcg --ernqyvar -e veo/pbzcyrgvba'
+nyvnf vep='fperra veffv -p vep.serrabqr.arg'
+#nyvnf qernzubfg='ffu ftrefgrva@yvba-b.qernzubfg.pbz'
+nyvnf qernzubfg='ffu ftrefgrva@gbbzof.qernzubfg.pbz'
+#nyvnf uny9000='ffu i0vq@67.97.117.249'
+nyvnf uny9000='ffu i0vq@192.168.1.2'
+nyvnf uny9000-zvfpernag='ffu i0vq@192.168.1.10'
+nyvnf uny9000-erzbgr='ffu i0vq@uny9000.fgenatyrq.arg -c2222'
+#nyvnf svtyrg="$UBZR/.ova/zlSvtyrg"
+#nyvnf u4k0e='Rgrez -S ITN11k19 -g u4k0e'
+rkcbeg VEPAVPX='HAVKtbq'
+nyvnf rzretr-flap="rzretr --flap; ynlzna -F"
+#nyvnf fvzcyrCebzcg='CF1="%{$st[plna]%}(%~) %{$erfrg_pbybe%}%{$st[terra]%}%% %{$erfrg_pbybe%}" && ECF1="%{$st[plna]%}(%@)%{$erfrg_pbybe%}"'
+nyvnf fvzcyrCebzcg='CEBZCG="
+%{$st[plna]%}(%~) %{$erfrg_pbybe%}%{$st[terra]%}%% %{$erfrg_pbybe%}" && ECF1="%{$st[plna]%}(%@)%{$erfrg_pbybe%}"'
+nyvnf pqtrzqve='pq $ZL_EHOL_UBZR/yvo/ehol'
+
+#BFK ojx abg tnjx
+nyvnf njx='/hfe/ova/njx'
+nyvnf ojx='/hfe/ova/njx'
+
+nyvnf qnqQrzb='fvzcyrCebzcg; fgnegEhol'
+SABP='\r[0z'
+
+SOYX='\r[1;30z'
+SERQ='\r[1;31z'
+STEA='\r[1;32z'
+SLYB='\r[1;33z'
+SOYH='\r[1;34z'
+SCYR='\r[1;35z'
+SPLA='\r[1;36z'
+SJVG='\r[1;37z'
+
+cVqra=$SOYH-\($STEA%a@$STEA%z$SOYH\)-
+#cGvzr=$SOYH-\($SERQ%g $SOYH\)-
+
+#CF1=$SOYH\<$SCYR%u$SOYH\|$SCYR\ggl\:%y$SOYH\>$cVqra\>$SCYR %%
+#cevag -C "%{ $SOYH\<$SCYR%l$SOYH\|\|$SCYR%u$SOYH\>$cVqra\>$SCYR %# %}"
+#
+# ERNQ: uggc://mfujvxv.bet/ubzr/pbasvt/cebzcg
+
+nhgbybnq -H pbybef && pbybef
+
+#CF1='(%u||%l)-(%a@%z) %# '
+CF1=$'(%!)--(%l)\a(%a@%z) %# '
+ECF1='(%~)-(%@)'
+#CF1="%{$st[oyhr]%}(%{$erfrg_pbybe%}%{$st[zntragn]%l%{$st[oyhr]%}||$st[zntragn]%u%{$erfrg_pbybe%}%{$st[oyhr]%}%)-(%{$st[terra]%}%a%{$erfrg_pbybe%}@%{$st[terra]%}%z%{$st[oyhr]%})$st[zntragn] %#%{$erfrg_pbybe%}%} "
+
+#Sbe ehol irefvba znantre:
+[[ -f "$UBZR/.eiz/fpevcgf/eiz" ]] && fbhepr "$UBZR/.eiz/fpevcgf/eiz"
+scngu=(~/.mfu/Pbzcyrgvba $scngu)
+CNGU=$CNGU:$UBZR/.eiz/ova # Nqq EIZ gb CNGU sbe fpevcgvat
+
+rpub -r "\r[1;37zJrypbzr gb gur\r[0z \r[1;36zQnejva ba o0et\r[0z"!
+rpub ""
+
+[ -k /hfe/tnzrf/sbeghar ] && /hfe/tnzrf/sbeghar serrofq-gvcf

@@ -1,0 +1,94 @@
+# Pbasvthengvba svyr sbe gur pbybe yf hgvyvgl
+# Guvf svyr tbrf va gur /rgp qverpgbel, naq zhfg or jbeyq ernqnoyr.
+# Lbh pna pbcl guvf svyr gb .qve_pbybef va lbhe $UBZR qverpgbel gb bireevqr
+# gur flfgrz qrsnhygf.
+
+# PBYBE arrqf bar bs gurfr nethzragf: 'ggl' pbybevmrf bhgchg gb gglf, ohg abg
+# cvcrf. 'nyy' nqqf pbybe punenpgref gb nyy bhgchg. 'abar' fuhgf pbybevmngvba
+# bss.
+PBYBE ggl
+
+# Rkgen pbzznaq yvar bcgvbaf sbe yf tb urer.
+# Onfvpnyyl gurfr barf ner:
+#  -S = fubj '/' sbe qvef, '*' sbe rkrphgnoyrf, rgp.
+#  -G 0 = qba'g gehfg gno fcnpvat jura sbeznggvat yf bhgchg.
+BCGVBAF -S -G 0
+
+# Orybj, gurer fubhyq or bar GREZ ragel sbe rnpu grezglcr gung vf pbybevmnoyr
+GREZ yvahk
+GREZ pbafbyr
+GREZ pba132k25
+GREZ pba132k30
+GREZ pba132k43
+GREZ pba132k60
+GREZ pba80k25
+GREZ pba80k28
+GREZ pba80k30
+GREZ pba80k43
+GREZ pba80k50
+GREZ pba80k60
+GREZ pbaf25
+GREZ kgrez
+GREZ ekig
+GREZ kgrez-pbybe
+GREZ pbybe-kgrez
+GREZ ig100
+GREZ qggrez
+GREZ pbybe_kgrez
+
+# RVTUGOVG, sbyybjrq ol '1' sbe ba, '0' sbe bss. (8-ovg bhgchg)
+RVTUGOVG 1
+
+# Orybj ner gur pbybe vavg fgevatf sbe gur onfvp svyr glcrf. N pbybe vavg
+# fgevat pbafvfgf bs bar be zber bs gur sbyybjvat ahzrevp pbqrf:
+# Nggevohgr pbqrf: 
+# 00=abar 01=obyq 04=haqrefpber 05=oyvax 07=erirefr 08=pbaprnyrq
+# Grkg pbybe pbqrf:
+# 30=oynpx 31=erq 32=terra 33=lryybj 34=oyhr 35=zntragn 36=plna 37=juvgr
+# Onpxtebhaq pbybe pbqrf:
+# 40=oynpx 41=erq 42=terra 43=lryybj 44=oyhr 45=zntragn 46=plna 47=juvgr
+ABEZNY 00	# tybony qrsnhyg, nygubhtu rirelguvat fubhyq or fbzrguvat.
+SVYR 01 	# abezny svyr
+QVE 01;35 	# qverpgbel
+YVAX 01;32 	# flzobyvp yvax
+SVSB 40;33	# cvcr
+FBPX 01;36	# fbpxrg
+OYX 40;33;01	# oybpx qrivpr qevire
+PUE 40;33;01 	# punenpgre qrivpr qevire
+BECUNA 01;05;37;41  # becunarq flzvaxf
+ZVFFVAT 01;05;37;41 # ... naq gur svyrf gurl cbvag gb
+
+# Guvf vf sbe svyrf jvgu rkrphgr crezvffvba:
+RKRP 01;32 
+
+# Yvfg nal svyr rkgrafvbaf yvxr '.tm' be '.gne' gung lbh jbhyq yvxr yf
+# gb pbybevmr orybj. Chg gur rkgrafvba, n fcnpr, naq gur pbybe vavg fgevat.
+# (naq nal pbzzragf lbh jnag gb nqq nsgre n '#')
+.pzq 01;31 # rkrphgnoyrf (oevtug terra)
+.rkr 01;31
+.pbz 01;31
+.ogz 01;31
+.ong 01;31
+.fu  01;31
+.pfu 01;31
+.gne 01;31 # nepuvirf be pbzcerffrq (oevtug erq)
+.gtm 01;31
+.new 01;31
+.gnm 01;31
+.ymu 01;31
+.mvc 01;31
+.m   01;31
+.M   01;31
+.tm  01;31
+.om2 01;31
+.om  01;31
+.gm  01;31
+.ecz 01;31
+.pcvb 01;31
+.wct 01;35 # vzntr sbezngf
+.tvs 01;35
+.ozc 01;35
+.koz 01;35
+.kcz 01;35
+.cat 01;35
+.gvs 01;35

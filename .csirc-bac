@@ -1,0 +1,10 @@
+( use readline irregex)
+( current-input-port ( make-gnu-readline-port))
+
+(define (clear)
+ (system "clear")
+ (display "(λ (happy) (hacking))\n"))
+
+(define (vi)
+ (system "vim /tmp/tmp.scm")
+ (load "/tmp/tmp.scm"))
